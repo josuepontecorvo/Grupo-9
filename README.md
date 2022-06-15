@@ -67,6 +67,8 @@ Ramiro Alvarez Abelleira: Hola, soy Ramiro, tengo 25 años, soy estudiante de di
 
 Ian Luca Lupardo: Hola, soy Ian, tengo 22 años, soy diseñador gráfico y 3D, y estudiante de desarrollo web. En la actualidad Me dedico a la impresión y diseño 3D. Espero poder aportar mis conocimientos tanto al proyecto como a  nuestro equipo, al mismo tiempo sumar experiencia y conocimientos mediante mis compañeros. Estoy feliz de tener la posibilidad de realizar el proyecto en equipo, ya que lo considero muy importante teniendo en cuenta que es  fundamental a la hora de trabajar en proyectos profesionalmente.
 
+Nadir Spera: Hola, soy nadir, tengo 19 años, estoy estudiando Ingeniería informática en la uba. Actualmente estoy enfocado en el curso, en la facultad, en entrenar y algunos días acompaño a mi papa al laburo. Estoy contento del grupo y del curso en sí, en la plataforma todos los contenidos son muy accesibles y entendibles. Cada clase que avanzamos con el contenido me voy enganchado más.
+
 Cuenta de GitHub
 
 URL:(https://github.com/josuepontecorvo/Grupo_5_TheBlinders.git)
